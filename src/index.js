@@ -20,6 +20,14 @@ module.exports = {
     const data = await api("animals", "fish", version);
     return data;
   },
+  koala: async (version) => {
+    const data = await api("animals", "koala", version);
+    return data;
+  },
+  panda: async (version) => {
+    const data = await api("animals", "panda", version);
+    return data;
+  },
   /*<──  ───────    ACTIONS   ───────  ──>*/
   kick: async (version) => {
     const data = await api("actions", "kick", version);
