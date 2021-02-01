@@ -1,0 +1,53 @@
+{
+  "name": "@onecteam/ri",
+  "version": "1.0.0",
+  "description": "Un paquete para interactuar con la API de RI",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/test/test.js"
+  },
+  "keywords": [
+    "Cat",
+    "Dog",
+    "fish",
+    "horse",
+    "koala",
+    "panda",
+    "kick",
+    "slap",
+    "happy",
+    "sleep",
+    "kiss",
+    "hug",
+    "kill",
+    "cry",
+    "dance",
+    "confused",
+    "tPose",
+    "eating",
+    "random",
+    "images",
+    "img",
+    "discord",
+    "discord bot",
+    "discord images",
+    "aleatorias",
+    "OneCTeam"
+  ],
+  "author": "OneCTeam",
+  "license": "MIT",
+  "homepage": "http://r-i.xyz/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneCTeam/r-i.git"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "bugs": {
+    "url": "https://github.com/OneCTeam/r-i/issues"
+  }
+}
